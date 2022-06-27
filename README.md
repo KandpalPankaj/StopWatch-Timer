@@ -4,7 +4,7 @@ Stopwatch and Timer - Presented here new, free app which will help you to measur
  ## Some snippets:
 
 - Stop Watch
-![](https://i.imgur.com/2AZi9Zc.png)
+![](https://i.imgur.com/kZaxFrg.png)
 
 - Timer
-![](https://i.imgur.com/dgpzh0T.png)
+![](https://i.imgur.com/S1gZtW2.png)
